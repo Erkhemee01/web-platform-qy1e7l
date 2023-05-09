@@ -1,0 +1,52 @@
+body {
+  background: #f5d6b4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div1 {
+  width: 40px;
+  height: 20px;
+  border-radius: 100px 100px 0 0;
+  border-left: 20px solid #d86f45;
+  border-right: 20px solid #d86f45;
+  border-top: 20px solid #d86f45;
+  margin: 102px 103px 100px 102px;
+}
+.tip {
+  border: none;
+  position: absolute;
+  background-color: #d86f45;
+  width: 20px;
+  height: 10px;
+  rotate: 180deg;
+  margin: 152px 77px 100px 15px;
+}
+.in_bot {
+  position: absolute;
+  width: 80px;
+  height: 40px;
+  rotate: 180deg;
+  margin: 202px 77px 100px 35px;
+}
+.div1.top {
+  position: absolute;
+  width: 120px;
+  height: 60px;
+  margin: 63px 77px 100px 75px;
+}
+.bottom {
+  position: absolute;
+  width: 160px;
+  height: 80px;
+  rotate: 180deg;
+  margin: 241px 117px 100px 75px;
+}
+.tip2 {
+  border: none;
+  position: absolute;
+  background-color: #d86f45;
+  width: 20px;
+  height: 10px;
+  margin: 132px 222px 100px 0px;
+}
